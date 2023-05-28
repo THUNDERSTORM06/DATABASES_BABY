@@ -1,0 +1,80 @@
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\bin\Debug\EntityFramework.dll
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\bin\Debug\EntityFramework.SqlServer.dll
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\bin\Debug\System.Data.SQLite.dll
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\bin\Debug\EntityFramework.xml
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\bin\Debug\EntityFramework.SqlServer.xml
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\bin\Debug\System.Data.SQLite.xml
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\obj\Debug\Lab2.csproj.CopyComplete
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\FACULTATE\Semestrul4\Sisteme_gestiune_baze_date\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\Filip\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Filip\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Filip\Desktop\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Filip\Desktop\Lab2\Lab2\bin\Debug\EntityFramework.dll
+C:\Users\Filip\Desktop\Lab2\Lab2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Filip\Desktop\Lab2\Lab2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Filip\Desktop\Lab2\Lab2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Filip\Desktop\Lab2\Lab2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Filip\Desktop\Lab2\Lab2\bin\Debug\EntityFramework.xml
+C:\Users\Filip\Desktop\Lab2\Lab2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Filip\Desktop\Lab2\Lab2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Filip\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\Desktop\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\Filip\Desktop\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Filip\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.CopyComplete
+C:\Users\Filip\Desktop\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Filip\Desktop\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\Uni\SGBD\lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Uni\SGBD\lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Uni\SGBD\lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Uni\SGBD\lab2\Lab2\Lab2\bin\Debug\EntityFramework.dll
+D:\Uni\SGBD\lab2\Lab2\Lab2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Uni\SGBD\lab2\Lab2\Lab2\bin\Debug\System.Data.SQLite.dll
+D:\Uni\SGBD\lab2\Lab2\Lab2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Uni\SGBD\lab2\Lab2\Lab2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Uni\SGBD\lab2\Lab2\Lab2\bin\Debug\EntityFramework.xml
+D:\Uni\SGBD\lab2\Lab2\Lab2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Uni\SGBD\lab2\Lab2\Lab2\bin\Debug\System.Data.SQLite.xml
+D:\Uni\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\Uni\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+D:\Uni\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Uni\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\Uni\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Uni\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CopyComplete
+D:\Uni\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Uni\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\Uni\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.MainPage.resources
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\bin\Debug\EntityFramework.dll
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\bin\Debug\System.Data.SQLite.dll
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\bin\Debug\EntityFramework.xml
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\bin\Debug\System.Data.SQLite.xml
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.MainPage.resources
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CopyComplete
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\GETTING A JOB\Downloads\SGBD\lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
